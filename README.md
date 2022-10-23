@@ -31,4 +31,27 @@
 
 <img width="954" alt="Gambar 5" src="https://user-images.githubusercontent.com/115516635/197378589-b794b248-26dc-4bbf-b6ab-4f05e95af182.png">
 
-9.
+# Latihan 1
+1. Garis Python Console
+2. Menikmati tulisan "Halo" Dilayar Anda
+3. Tulisan "Saya Sedang Belajar Python"
+<img width="960" alt="Gambar 6" src="https://user-images.githubusercontent.com/115516635/197385244-bac55d6d-fae0-4e4b-adbc-5feff5ea5969.png">
+
+# Latihan 2
+1. Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
+2. Mendefinisikan variabel a dengan nilai 8
+3. Mendefinisikan variabel b dengan nilai 6
+4. Mencetak nilai variabel a dan b
+5. Mencetak hasil penjumlahan a+b
+<img width="960" alt="Gambar 8" src="https://user-images.githubusercontent.com/115516635/197385324-3ebb0b27-d5ea-4266-95e0-6fce50efceb5.png">
+
+# Latihan 3
+1. Garis IDLE
+2. Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
+3. Hasil penggabungan
+4. Hasil penjumlahan
+5. Bagi hasil
+6. Menggunakan format string
+<img width="960" alt="Gambar 8" src="https://user-images.githubusercontent.com/115516635/197385402-3cdf23d4-319c-47a2-bd09-fa5496cf35f7.png">
+
+Sekian Terima Kasih Atas Tutorial Dari Saya Bayu Pratama
