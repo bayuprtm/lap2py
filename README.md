@@ -43,7 +43,8 @@
 3. Mendefinisikan variabel b dengan nilai 6
 4. Mencetak nilai variabel a dan b
 5. Mencetak hasil penjumlahan a+b
-<img width="960" alt="Gambar 8" src="https://user-images.githubusercontent.com/115516635/197385324-3ebb0b27-d5ea-4266-95e0-6fce50efceb5.png">
+
+<img width="960" alt="Gambar 7" src="https://user-images.githubusercontent.com/115516635/197532159-b1342c79-e992-473e-99fa-d99bb6800294.png">
 
 # Latihan 3
 1. Garis IDLE
